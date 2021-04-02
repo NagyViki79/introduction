@@ -5,7 +5,8 @@
 	font-size: 100%;
   }
   body {
-	background: url(assets/Cote-d-azure3.jpg) no-repeat center center fixed; 
+	background: url(assets/cote-d-azure.jpg) no-repeat center center fixed; 
+	background-size: cover;
 	display: flex;
 	justify-content: center;
 	align-items: center;
